@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Kamal S
 
-<!--
-**u1kamal/u1kamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Engineering Student | Vemana Institute of Technology  
+🔧 IoT • Embedded Systems • Web Development  
+🐾 Creator of AutoPetFeeder | ♻️ Trash2Cash App
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🐶 **AutoPetFeeder (IoT + ESP32)**
+  - Smart feeding, water control, live video
+  - ESP32, HX711, Servo, MQTT, Mobile App
+
+- ♻️ **Trash2Cash**
+  - Waste classification using AI
+  - Rewards based on waste type & weight
+  - Hackathon project
+
+- 🏫 **Online College ERP**
+  - Student, faculty, admin modules
+  - Attendance, marks, fees
+
+---
+
+## 🛠️ Skills
+- **Languages:** C, C++, Python, JavaScript  
+- **Hardware:** ESP32, ESP32-CAM, Sensors, Servo Motors  
+- **Tech:** IoT, MQTT, GitHub, Web Apps  
+- **Tools:** Arduino IDE, VS Code
+
+---
+
+## 📫 Connect with me
+- LinkedIn: *(add your link)*
