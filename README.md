@@ -16,7 +16,7 @@
 ---
 
 ## 👋 About Me
-🎓 Final Year Engineering Student | **Vemana Institute of Technology**  
+🎓 Electronics and Communication Engineer | **Vemana Institute of Technology**  
 ⚙️ **IoT & Embedded Systems Engineer**  
 🐾 Creator of **AutoPetFeeder**  
 ♻️ Co-creator of **Trash2Cash**  
